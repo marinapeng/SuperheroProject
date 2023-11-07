@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SnakeWoman
+comment0.text=\n\ Write\ a\ description\ of\ class\ Batman\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SnakeWoman()
+comment2.params=initName\ initLength
+comment2.target=SnakeWoman(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getMotto()
+comment4.params=
+comment4.target=void\ getLength()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

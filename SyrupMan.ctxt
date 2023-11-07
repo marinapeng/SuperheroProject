@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SyrupMan
+comment0.text=\n\ Write\ a\ description\ of\ class\ SyrupMan\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SyrupMan()
+comment2.params=initName\ initSticky
+comment2.target=SyrupMan(java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ getMotto()
+comment4.params=
+comment4.target=void\ becomeSticky()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

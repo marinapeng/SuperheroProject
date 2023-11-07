@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BubbleMan
+comment0.text=\n\ Write\ a\ description\ of\ class\ SpiderMan\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=BubbleMan()
+comment2.params=initName\ initBubbles
+comment2.target=BubbleMan(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getMotto()
+comment4.params=
+comment4.target=void\ shootBubbles()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
